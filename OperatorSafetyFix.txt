@@ -1,0 +1,5 @@
+Operator Safety Flaw:
+Operator can accidentally delete important records without warning.
+
+Fix:
+Add confirmation dialog and role-based access control (RBAC).
