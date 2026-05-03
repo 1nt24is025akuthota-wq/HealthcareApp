@@ -1,0 +1,5 @@
+Public Safety Flaw:
+Emergency patient records may not be available during system failure.
+
+Fix:
+Implement cloud backup and redundant database systems for continuous availability.
