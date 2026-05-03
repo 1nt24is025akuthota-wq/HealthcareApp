@@ -1,0 +1,5 @@
+Security Flaw:
+Weak login system allows easy guessing of passwords.
+
+Fix:
+Use strong password policy, encryption (hashing), and optional two-factor authentication (2FA).
